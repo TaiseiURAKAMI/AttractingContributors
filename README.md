@@ -29,4 +29,5 @@ Goal - I want contributors to help me list some favorite Japanese Anime.
 8. Fullmetal Alchemist: Brotherhood
 9. Naruto
 10. SPY x FAMILY
-11. Little Busters!
+11. SPY×FAMILY
+12. Little Busters!
